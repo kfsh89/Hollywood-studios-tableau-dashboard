@@ -22,8 +22,7 @@ Interactive Tableau Public dashboard comparing major Hollywood studios (**Sony P
 ![Genre Distribution](Genre Distribution A (2000-2016).png)
 
 ## Download the Tableau Workbook
-[📥 Download Hollywood Major Studios Dashboard.twbx]([)](https://github.com/kfsh89/Hollywood-studios-tableau-dashboard/blob/main/Holywood%20Major%20Studios%20Dashboard-%20Revenue%20ROI%20Genres.twbx
-https://raw.githubusercontent.com/kfsh89/Hollywood-studios-tableau-dashboard/refs/heads/main/Holywood%20Major%20Studios%20Dashboard-%20Revenue%20ROI%20Genres.twbx)
+[📥 Download Hollywood Major Studios Dashboard.twbx]([Holywood Major Studios Dashboard- Revenue ROI Genres.twbx](https://public.tableau.com/authoring/HolywoodMajorStudiosDashboard-RevenueROIGenres/Dashboard1#1))
 
 ## Tools & Dataset
 - **Tool**: Tableau Public  
