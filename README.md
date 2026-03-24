@@ -14,6 +14,6 @@ Live Dashboard: [Paste your Tableau Public link here]
 Key Insights:
 - Disney often leads in total revenue due to franchises.
 - Sony shows competitive ROI in certain genres.
-- Post-2010 focus for modern relevance.
+- Post-2000 focus for modern relevance.
 
 Great for entertainment/media analytics portfolios!
