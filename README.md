@@ -10,7 +10,7 @@ Interactive Tableau Public dashboard comparing major Hollywood studios (**Sony P
 - Genre Distribution
 
 ## Live Interactive Dashboard
-[🔗 View the full interactive dashboard](https://public.tableau.com/views/HollywoodMajorStudiosDashboard-RevenueROIGenres/Dashboard1?...)
+[🔗 View the full interactive dashboard](https://public.tableau.com/views/HolywoodMajorStudiosDashboard-RevenueROIGenres/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Screenshots
 
