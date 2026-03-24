@@ -1,19 +1,34 @@
+
 # Hollywood Major Studios Comparison Dashboard
 
-Interactive Tableau Public dashboard comparing major Hollywood studios (Sony Pictures, Disney, Warner Bros., Universal, Paramount) on:
-- Total box office revenue
-- Average ROI
-- Revenue trends over years
-- IMDb ratings
+Interactive Tableau Public dashboard comparing major Hollywood studios (**Sony Pictures, Disney, Warner Bros., Universal, Paramount**) on:
 
-Dataset: Kaggle The Movies Dataset (movies_metadata.csv)
-Tools: Tableau Public
+- Total Box Office Revenue  
+- Average ROI (Budget ≥ $1M)  
+- Revenue trends over years  
+- Average IMDb Ratings  
+- Genre Distribution
 
-Live Dashboard: https://public.tableau.com/views/HolywoodMajorStudiosDashboard-RevenueROIGenres/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+## Live Interactive Dashboard
+[🔗 View the full interactive dashboard](https://public.tableau.com/views/HollywoodMajorStudiosDashboard-RevenueROIGenres/Dashboard1?...)
 
-Key Insights:
-- Disney often leads in total revenue due to franchises.
-- Sony shows competitive ROI in certain genres.
-- Post-2000 focus for modern relevance.
+## Screenshots
 
-Great for entertainment/media analytics portfolios!
+![Full Dashboard](Dashboard1.png)
+![Total Revenue by Studio](Total Box Office Revenue by Major Studios.png)
+![Average ROI by Studio](Average ROI by Major Studio.png)
+![Average IMDb Rating](Average IMDB Rating by Major Studio.png)
+![Revenue Trend](Revenue Trend by Studio (1960-2015).png)
+![Genre Distribution](Genre Distribution A (2000-2016).png)
+
+## Download the Tableau Workbook
+[📥 Download Hollywood Major Studios Dashboard.twbx](Hollywood%20Major%20Studios%20Dashboard-%20Revenue%20ROI%20Genres.twbx)
+
+*(After downloading, open the `.twbx` file with Tableau Public or Tableau Desktop to explore interactively)*
+
+## Tools & Dataset
+- **Tool**: Tableau Public  
+- **Dataset**: Kaggle - The Movies Dataset (movies_metadata.csv)
+
+Built as part of my **Entertainment Data Analytics** portfolio.  
+Open to Summer 2026 internships in Film, Media, and Entertainment Analytics.
